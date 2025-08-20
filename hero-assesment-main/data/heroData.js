@@ -43,5 +43,23 @@ export const heroSections = [
       descriptionPlacement: 'end start'  
     },
     theme: 'dark'
+  },
+  {
+    id: 'hero-4',
+    description: 'This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself. This is a super-long description that keeps on repeating itself.',
+    backgroundImage: {
+      src: '/sample-image.png',
+      alt: 'Testing long description no title'
+    },
+    theme: 'magenta'
+  },
+  {
+    id: 'hero-5',
+    title: 'Title With No Description or layout',
+    backgroundImage: {
+      src: '/sample-image.png',
+      alt: 'Testing title without descriptione'
+    },
+    theme: 'cyan'
   }
 ];

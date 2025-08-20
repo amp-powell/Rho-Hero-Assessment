@@ -1,3 +1,12 @@
+## Update - How to test
+
+How to test Hero component:  
+1. Install npm dependencies
+2. In a shell, run 'npm run dev'
+3. Go to localhost:{port}/demo  
+
+---
+
 # 🧪 Technical Assessment: Build a Reusable Hero Component (Next.js + CSS Modules)
 
 Welcome! This technical assessment is designed to evaluate your ability to build a reusable, CMS-friendly Hero section in a modern Next.js codebase. You’ll be asked to create a scalable Hero component similar to one used in production at Rho. This challenge focuses on:
